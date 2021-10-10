@@ -46,4 +46,4 @@
 
 ## Last
 
-源文件和笔记一并上传至[`GitHub`](https://github.com/djh-sudo/tiny-OS-kernel)，如果您有任何问题，也可以通过`djh113@126.com`联系我。每个文件夹是独立的结构，编译的二进制文件并未上传，但源码和工具都已上传。
+源文件和笔记一并上传至[`GitHub`](https://github.com/djh-sudo/tiny-OS-kernel/)，如果您有任何问题，也可以通过`djh113@126.com`联系我。每个文件夹是独立的结构，编译的二进制文件并未上传，但源码和工具都已上传。
